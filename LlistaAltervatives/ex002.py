@@ -1,4 +1,6 @@
-# equacio de 2n grau
+# Fes un programa que calculi les solucions d'una equació de segon grau i que no falli mai.
+# No es poden fer arrels de valors negatius ni divisions per 0.
+# ax^2 + bx + c = 0
 a = float(input("Entra el valor per la a -> "))
 if a == 0:
     print("No es una equació de 2n grau")
