@@ -6,6 +6,18 @@
 dia = int(input("Entra el dia del mes -> "))
 mes = int(input("Entra el mes -> "))
 
+if mes < 1 or mes > 12:
+    estacio = "ERROR"
+elif (mes == 3 and dia >= 21) or mes == 4 or mes == 5 or (mes == 6 and dia < 21):
+    estacio = "primavera"
+elif (mes == 6 and dia >= 21) or mes == 7 or mes == 8 or (mes == 9 and dia < 21):
+    estacio = "estiu"
+elif (mes == 9 and dia >= 21) or mes == 10 or mes == 11 or (mes == 12 and dia < 21):
+    estacio = "tardor"
+else:
+    estacio = "hivern"
+
+
 if mes <= 0:
     estacio = "ERROR"
 elif mes <=2 :
