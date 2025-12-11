@@ -1,0 +1,15 @@
+llista_notes = []
+print("Ves entrant notes, INTRO per acabar")
+nota_str = input("Entra la nota ").strip()
+while nota_str != "":
+    nota = int(nota_str)
+    if nota >= 1 and nota <= 10:
+        llista_notes.append(nota)
+    else:
+        print("Nota invàlida")
+    nota_str = input("Entra la nota ").strip()
+
+print(llista_notes)
+print("Nota màxima", max(llista_notes))
+print("Nota mínima", min(llista_notes))
+print("Nota mitjana", sum(llista_notes)/len(llista_notes))
