@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enllaços dels Projectes</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        h1 {
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 15px 0;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        li:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+        }
+        a {
+            display: block;
+            padding: 20px 25px;
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        a:hover {
+            background: #f8f9fa;
+        }
+        .company-name {
+            font-size: 1.2em;
+            color: #667eea;
+            font-weight: 600;
+        }
+        .url-preview {
+            font-size: 0.85em;
+            color: #888;
+            margin-top: 5px;
+        }
+        .disabled {
+            background: #e9ecef;
+            cursor: not-allowed;
+        }
+        .disabled .company-name {
+            color: #6c757d;
+        }
+        .badge {
+            font-size: 0.75em;
+            padding: 4px 10px;
+            border-radius: 20px;
+            background: #dc3545;
+            color: white;
+        }
+        .badge.active {
+            background: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀 Projectes Web</h1>
+    <ul>
+        <li>
+            <a href="https://sites.google.com/institutmontilivi.cat/laptop-mobile-store/home" target="_blank">
+                <div>
+                    <span class="company-name">M&M</span>
+                    <div class="url-preview">Google Sites - Laptop & Mobile Store</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://a2510426.wixsite.com/fixora-tech" target="_blank">
+                <div>
+                    <span class="company-name">Fixora Tech</span>
+                    <div class="url-preview">Wix Site</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://a2510402.wixsite.com/misitio-1" target="_blank">
+                <div>
+                    <span class="company-name">Digital Forge</span>
+                    <div class="url-preview">Wix Site</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://a2510454.wixsite.com/joel" target="_blank">
+                <div>
+                    <span class="company-name">Omni Device</span>
+                    <div class="url-preview">Wix Site</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://a2510392.wixsite.com/petabytesolutions" target="_blank">
+                <div>
+                    <span class="company-name">Pet a Byte Solutions</span>
+                    <div class="url-preview">Wix Site</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="disabled" onclick="alert('Aquest enllaç és un arxiu local i no està disponible')">
+                <div>
+                    <span class="company-name">Roast Master</span>
+                    <div class="url-preview">Arxiu local (no disponible)</div>
+                </div>
+                <span class="badge">No disponible</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://starlit-profiterole-bfdb18.netlify.app/" target="_blank">
+                <div>
+                    <span class="company-name">K&H</span>
+                    <div class="url-preview">Netlify App</div>
+                </div>
+                <span class="badge active">Actiu</span>
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
