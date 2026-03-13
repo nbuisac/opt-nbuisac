@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova Javascript</title>
+</head>
+<body>
+    <h1>Això és un títol</h1>
+    <p>Això és un paràgraf.</p>
+    <input id="text_llegit" type="text" name="texte">
+    <script>
+        function funcio() {
+            alert(document.getElementByName("texte").textContent);
+            document.getElementById("text_escrit").textContent = "Hola";
+        }
+    </script>
+    <button onclick="funcio()">Apreta'm</button>
+    <p id="text_escrit" style="border:1px solid red">Aquí el texte que escriguis</p>
+    
+</body>
+</html>
