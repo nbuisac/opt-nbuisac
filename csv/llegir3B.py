@@ -18,6 +18,11 @@ with open(nom_fitxer, "rt", encoding="utf8")  as f:
             diccionari[medi] = { "preu": preu, "vegades": 1 }
 
 print(diccionari)
+ml = 0
+for a in diccionari.keys():
+    if len(a) > ml:
+        ml = len(a)
+print(ml)
 '''
 {
 'ARA': {'preu': 10186.62, 'vegades': 18},
