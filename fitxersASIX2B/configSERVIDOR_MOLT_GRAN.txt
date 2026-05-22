@@ -1,0 +1,5 @@
+[SERVER_CONFIG]
+HOST_NAME = "SERVIDOR_MOLT_GRAN"
+IP_ADDRESS = "14"
+PORT = 23
+estat = "active"

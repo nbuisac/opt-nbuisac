@@ -1,0 +1,6 @@
+data,"usuari",ip,"estat"
+2024-05-10,admin,192.168.1.5,èxit
+2024-05-10,user1,10.0.0.50,fallida
+2024-05-11,convidat,172.16.0.5,fallida
+2024-05-11,convidat,172.16.0.5,èxit
+2024-05-11,admin,192.168.1.5,èxit

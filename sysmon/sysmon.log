@@ -1,0 +1,15 @@
+2026-04-16 07:49:51 - INFO - Estat del sistema: RAM 26.1% | Disc 95.1%
+2026-04-16 07:49:51 - WARNING - Alerta de Disc: Ús al 95.1% (Límit 85.0%)
+2026-04-16 07:50:15 - INFO - Estat del sistema: RAM 26.2% | Disc 95.1%
+2026-04-16 07:50:15 - WARNING - Alerta de Disc: Ús al 95.1% (Límit 85.0%)
+2026-04-16 07:50:15 - ERROR - Error de xarxa intentant connectar amb el webhook: HTTPSConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1032)')))
+2026-04-16 07:50:30 - INFO - Estat del sistema: RAM 26.2% | Disc 95.1%
+2026-04-16 07:50:30 - WARNING - Alerta de Disc: Ús al 95.1% (Límit 85.0%)
+2026-04-16 07:50:30 - ERROR - El webhook ha fallat. Codi d'error HTTP: 404
+2026-04-16 07:50:41 - INFO - Estat del sistema: RAM 26.1% | Disc 95.1%
+2026-04-16 07:50:41 - WARNING - Alerta de Disc: Ús al 95.1% (Límit 85.0%)
+2026-04-16 07:50:41 - INFO - Alerta enviada correctament al webhook.
+2026-04-16 07:50:55 - INFO - Estat del sistema: RAM 26.1% | Disc 95.1%
+2026-04-16 07:50:55 - WARNING - Alerta de RAM: Ús al 26.1% (Límit 10.0%)
+2026-04-16 07:50:55 - WARNING - Alerta de Disc: Ús al 95.1% (Límit 85.0%)
+2026-04-16 07:50:55 - INFO - Alerta enviada correctament al webhook.

@@ -1,0 +1,228 @@
+2026-04-10 12:11:36,447 root     WARNING  Watch out!
+2026-04-10 12:11:36,447 root     INFO     I told you so
+2026-04-10 12:11:36,447 root     DEBUG    Debug
+2026-04-10 12:11:36,447 root     ERROR    error
+2026-04-10 12:11:36,447 root     CRITICAL critical
+2026-04-10 12:11:53,972 root WARNING Watch out!
+2026-04-10 12:11:53,972 root INFO I told you so
+2026-04-10 12:11:53,972 root DEBUG Debug
+2026-04-10 12:11:53,972 root ERROR error
+2026-04-10 12:11:53,972 root CRITICAL critical
+2026-04-10 12:12:40,828#root#WARNING#Watch out!
+2026-04-10 12:12:40,828#root#INFO#I told you so
+2026-04-10 12:12:40,828#root#DEBUG#Debug
+2026-04-10 12:12:40,828#root#ERROR#error
+2026-04-10 12:12:40,828#root#CRITICAL#critical
+2026-04-10 12:14:34,776#root#WARNING#Watch out!
+2026-04-10 12:14:34,776#root#INFO#I told you so
+2026-04-10 12:14:34,776#root#DEBUG#Debug
+2026-04-10 12:14:34,776#root#ERROR#error
+2026-04-10 12:14:34,776#root#CRITICAL#critical
+2026-04-10 12:14:49,219#root#WARNING#Watch out!
+2026-04-10 12:14:49,219#root#INFO#I told you so
+2026-04-10 12:14:49,220#root#DEBUG#Debug
+2026-04-10 12:14:49,220#root#ERROR#error
+2026-04-10 12:14:49,220#root#CRITICAL#critical
+2026-04-10 12:16:12,372#root#WARNING#Watch out!
+2026-04-10 12:16:12,372#root#INFO#I told you so
+2026-04-10 12:16:12,372#root#DEBUG#Debug
+2026-04-10 12:16:12,372#root#ERROR#error
+2026-04-10 12:16:12,372#root#CRITICAL#critical
+2026-04-10 12:16:50,017#root#WARNING#Watch out!
+2026-04-10 12:16:50,017#root#INFO#I told you so
+2026-04-10 12:16:50,018#root#DEBUG#Debug
+2026-04-10 12:16:50,018#root#ERROR#error
+2026-04-10 12:16:50,018#root#CRITICAL#critical
+2026-04-10 12:17:16,535#Narcis#WARNING#Watch out!
+2026-04-10 12:17:16,535#Narcis#INFO#I told you so
+2026-04-10 12:17:16,535#Narcis#DEBUG#Debug
+2026-04-10 12:17:16,535#Narcis#ERROR#error
+2026-04-10 12:17:16,535#Narcis#CRITICAL#critical
+2026-04-10 12:17:53,601#root#WARNING#Watch out!
+2026-04-10 12:17:53,601#root#INFO#I told you so
+2026-04-10 12:17:53,602#root#DEBUG#Debug
+2026-04-10 12:17:53,602#root#ERROR#error
+2026-04-10 12:17:53,602#root#CRITICAL#critical
+2026-04-10 12:18:38,064#root#WARNING#Watch out!
+2026-04-10 12:18:38,064#root#INFO#I told you so
+2026-04-10 12:18:38,064#root#DEBUG#Debug
+2026-04-10 12:18:38,064#root#ERROR#error
+2026-04-10 12:18:38,064#root#CRITICAL#critical
+2026-04-10 12:20:11,383#root#WARNING#Watch out!
+2026-04-10 12:20:11,383#root#INFO#I told you so
+2026-04-10 12:20:11,383#root#DEBUG#Debug
+2026-04-10 12:20:11,383#root#ERROR#error
+2026-04-10 12:20:11,383#root#CRITICAL#critical
+2026-04-10 12:26:05,390#root#WARNING#DISC (C:\)
+==========
+Total: 510.81 GB
+Disponible: 41.08 GB
+% utilitzat: 92.00 %
+2026-04-10 12:26:05,390#root#WARNING#DISC (E:\)
+==========
+Total: 498.98 GB
+Disponible: 41.66 GB
+% utilitzat: 91.70 %
+2026-04-14 09:16:44,987#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 39.86 GB#% utilitzat: 92.20 %
+2026-04-16 09:39:41,794#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:40:49,669#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:41:01,145#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.05 GB#% utilitzat: 32.30 %
+2026-04-16 09:41:01,145#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:02,841#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.06 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:02,841#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:06,007#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.07 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:06,007#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:12,761#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.07 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:12,761#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:20,761#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.07 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:20,762#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:32,383#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.05 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:32,384#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:42:33,520#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.06 GB#% utilitzat: 32.30 %
+2026-04-16 09:42:33,520#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:45:12,491#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.00 GB#% utilitzat: 32.50 %
+2026-04-16 09:45:12,492#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:45:14,197#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 23.00 GB#% utilitzat: 32.50 %
+2026-04-16 09:45:14,197#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:48:30,970#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.94 GB#% utilitzat: 32.60 %
+2026-04-16 09:48:30,970#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:48:33,967#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.96 GB#% utilitzat: 32.60 %
+2026-04-16 09:48:33,967#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:53:42,230#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.87 GB#% utilitzat: 32.80 %
+2026-04-16 09:53:42,230#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:53:42,234#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:54:39,619#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.82 GB#% utilitzat: 33.00 %
+2026-04-16 09:54:39,619#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:54:39,624#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:54:49,356#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.84 GB#% utilitzat: 32.90 %
+2026-04-16 09:54:49,357#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:54:49,360#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:16,748#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.86 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:16,748#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:16,752#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:17,752#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.86 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:17,753#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:17,761#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:18,763#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.86 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:18,764#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:18,771#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:19,773#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.87 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:19,773#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:19,778#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:20,779#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.87 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:20,780#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:20,785#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:21,786#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.86 GB#% utilitzat: 32.90 %
+2026-04-16 09:56:21,787#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:21,794#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:22,795#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.87 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:22,796#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:22,801#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:23,802#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.87 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:23,804#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:23,809#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:24,811#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.88 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:24,812#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:24,819#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:25,820#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.88 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:25,820#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:25,828#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:26,829#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:26,830#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:26,837#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:27,838#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:27,839#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:27,848#root#WARNING#Error en connectar amb el servidor http://172.17.100.82:5000/webhoo
+2026-04-16 09:56:30,916#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:30,916#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:30,919#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:31,919#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:31,920#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:31,926#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:32,927#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:32,928#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:32,934#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:33,934#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:33,935#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:33,941#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:34,942#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:34,943#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:34,950#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:35,951#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:35,952#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:35,958#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:36,958#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:36,959#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:36,964#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:37,965#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.91 GB#% utilitzat: 32.70 %
+2026-04-16 09:56:37,966#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:37,976#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:38,977#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.91 GB#% utilitzat: 32.70 %
+2026-04-16 09:56:38,978#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:38,987#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:39,988#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:39,989#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:40,000#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:41,001#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:41,002#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:41,009#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:42,010#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:42,012#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:42,023#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:43,024#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:43,025#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:43,035#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:44,036#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:44,037#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:44,045#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:45,046#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:45,048#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:45,059#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:46,060#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:46,061#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:46,074#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:47,075#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:47,076#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:47,086#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:48,087#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:48,088#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:48,099#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:49,100#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:49,101#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:49,110#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:50,111#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.89 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:50,112#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:50,123#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:51,124#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:51,126#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:51,137#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:52,139#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:52,140#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:52,152#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:53,153#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.70 %
+2026-04-16 09:56:53,153#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:53,162#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:54,164#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:54,165#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:54,173#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:55,174#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:55,174#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:55,186#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:56,187#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.91 GB#% utilitzat: 32.70 %
+2026-04-16 09:56:56,188#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:56,197#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:57,198#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:57,199#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:57,209#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:58,210#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:58,210#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:58,216#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:56:59,217#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:56:59,217#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:56:59,220#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:57:00,221#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:57:00,222#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:57:00,227#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook
+2026-04-16 09:57:01,228#root#WARNING#MEMORIA#Total: 34.06 GB#Disponible: 22.90 GB#% utilitzat: 32.80 %
+2026-04-16 09:57:01,228#root#WARNING#DISC (C:\)#Total: 510.81 GB#Disponible: 25.75 GB#% utilitzat: 95.00 %
+2026-04-16 09:57:01,231#root#INFO#Dades enviades al servidor http://172.17.100.82:5000/webhook

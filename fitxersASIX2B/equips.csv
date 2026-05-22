@@ -1,0 +1,11 @@
+id,nom,ram_gb,os,ubicacio
+1,SRV-WEB-01,16,Ubuntu 22.04,Sala A
+2,SRV-DB-02,32,Debian 12,Sala B
+3,SRV-PROXMOX,64,Proxmox VE,Sala A
+4,WS-ADMIN-01,8,Windows 11,Oficina 1
+5,SRV-FILE-03,16,TrueNAS Core,Sala B
+6,WS-DESENV-02,16,Linux Mint,Oficina 2
+7,SRV-DNS-01,4,CentOS Stream,Sala A
+8,WS-SUPORT-04,12,Windows 10,Oficina 1
+9,SRV-BACKUP,32,Ubuntu 22.04,Magatzem
+10,WS-LAB-05,4,Kali Linux,Laboratori
